@@ -1,54 +1,18 @@
-🔭 Tabalhando em projetos sociais e desenvolvendo novas habilidades.
+<p align=center>🔭 Tabalhando em projetos sociais e desenvolvendo novas habilidades.<br>
+<i>💬 gabriella.b.cecilio@gmail.com</i> </p>
 
-💬 gabriella.b.cecilio@gmail.com
 
 ---
 
-## 🚀 Minhas Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,figma)](https://skillicons.dev)
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?ytkvghabys=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?ytkvghabys=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
+<h2 align=center>🚀 Minhas Skills</h2>
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?ytkvghabys=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,c,github" />
   </a>
 </p>
+
+<h2 align=center>⚙️ GitHub Analytics</h2>
+<p align=center>
+<img src="https://streak-stats.demolab.com?user=ytkvghabys&theme=tokyonight&hide_border=true" alt="ytkvghabys's GitHub Stats" />
+</p>
+
