@@ -3,7 +3,9 @@
 </p>
 
 <p align=center>🔭 Tabalhando em projetos sociais e desenvolvendo novas habilidades.<br>
-<i>💬 gabriella.b.cecilio@gmail.com</i> </p>
+<i>💬 gabriella.b.cecilio@gmail.com</i><br>
+<br>
+Acesse meu <a href="www.linkedin.com/in/gabriella-batista-cecílio-negromonte" target=_blank style="color: #BB9AF7; text-decoration: none" >LinkedIn</a></p>
 
 
 ---
@@ -11,7 +13,7 @@
 <h2 align=center>🚀 Minhas Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,c,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,figma,github" />
   </a>
 </p>
 
